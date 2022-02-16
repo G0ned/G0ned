@@ -1,5 +1,5 @@
-def suma(x,y):
-    return x + y
+def suma(z,y):
+    return z + y
 
 
 while True:
